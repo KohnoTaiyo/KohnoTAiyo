@@ -3,14 +3,11 @@ I usually play here on holidays!
 - 🔭 I’m currently working as a Front-end Engineer at [Yahoo!](https://about.yahoo.co.jp/).
 - :heart: Fun facts: :guitar: & :cat:!  
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&theme=dracula)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&theme=dracula)
-
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&theme=dark" />
 </a>
 
 <!--
