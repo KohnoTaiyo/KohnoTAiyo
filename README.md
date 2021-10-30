@@ -1,5 +1,4 @@
 Hey there, I'm Taiyo Kohon 👋  
-Nice to meet you!  
 I usually play here on holidays!  
 - 🔭 I’m currently working as a Front-end Engineer at [Yahoo!](https://about.yahoo.co.jp/).
 - :heart: Fun fact: :guitar: & :cat:  
@@ -7,7 +6,6 @@ I usually play here on holidays!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&count_private=true&show_icons=true" />
 </a>
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&layout=compact" />
 </a>
