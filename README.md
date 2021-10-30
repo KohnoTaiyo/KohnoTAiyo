@@ -2,12 +2,15 @@ Hey there, I'm Taiyo Kohon 👋
 I usually play here on holidays!  
 - 🔭 I’m currently working as a Front-end Engineer at [Yahoo!](https://about.yahoo.co.jp/).
 - :heart: Fun facts: :guitar: & :cat:!  
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&count_private=true&show_icons=true" />
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&theme=dracula)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&theme=dracula)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoTaiyo&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KohnoTaiyo&theme=dracula" />
 </a>
 
 <!--
